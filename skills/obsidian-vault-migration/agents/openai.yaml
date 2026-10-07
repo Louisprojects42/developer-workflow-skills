@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Vault Migration"
+  short_description: "Obsidian Vault Migration workflow and practical checks"
+  default_prompt: "Use $obsidian-vault-migration to design a repeatable import of this Markdown vault into a notes application."

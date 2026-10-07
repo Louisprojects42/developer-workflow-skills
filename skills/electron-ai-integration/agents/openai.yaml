@@ -1,0 +1,4 @@
+interface:
+  display_name: "Electron AI Integration"
+  short_description: "Electron AI Integration workflow and practical checks"
+  default_prompt: "Use $electron-ai-integration to add an AI feature with a clear renderer-to-provider boundary."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence Backed Project Log"
+  short_description: "Evidence Backed Project Log workflow and practical checks"
+  default_prompt: "Use $evidence-backed-project-log to record this change set with evidence and honest verification limits."

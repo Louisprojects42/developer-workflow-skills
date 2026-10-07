@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repository Onboarding Map"
+  short_description: "Repository Onboarding Map workflow and practical checks"
+  default_prompt: "Use $repo-onboarding-map to map this repository and identify the safest first feature change."

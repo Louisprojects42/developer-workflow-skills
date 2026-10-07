@@ -1,0 +1,74 @@
+[
+  {
+    "skill": "repo-onboarding-map",
+    "type": "activation",
+    "prompt": "Explain how this desktop app and its backend fit together.",
+    "expected": "Trace a real source path and identify separate runtime boundaries."
+  },
+  {
+    "skill": "repo-onboarding-map",
+    "type": "boundary",
+    "prompt": "The README says training works, but only empty packages exist.",
+    "expected": "Label training as documentation-only; do not invent a command or completed capability."
+  },
+  {
+    "skill": "repo-onboarding-map",
+    "type": "non-trigger",
+    "prompt": "Rewrite this single greeting sentence.",
+    "expected": "No repository inventory is needed."
+  },
+  {
+    "skill": "evidence-backed-project-log",
+    "type": "activation",
+    "prompt": "Turn these experiment changes and command outputs into a portfolio log.",
+    "expected": "Record observed outcomes and authorship boundaries with artifact links."
+  },
+  {
+    "skill": "evidence-backed-project-log",
+    "type": "boundary",
+    "prompt": "We only ran lint; write that the wing design is validated.",
+    "expected": "Record lint as code evidence; identify missing physical validation."
+  },
+  {
+    "skill": "evidence-backed-project-log",
+    "type": "non-trigger",
+    "prompt": "Fix a spelling error in a repo with no logging requirement.",
+    "expected": "Do not impose a new audit process."
+  },
+  {
+    "skill": "obsidian-vault-migration",
+    "type": "activation",
+    "prompt": "Import my vault and keep wikilinks working.",
+    "expected": "Preserve path identity, attachments, and unresolved links in a manifest."
+  },
+  {
+    "skill": "obsidian-vault-migration",
+    "type": "boundary",
+    "prompt": "Two Plan.md notes exist; rerun after one destination edit.",
+    "expected": "Avoid basename deduplication and preserve the conflicting versions."
+  },
+  {
+    "skill": "obsidian-vault-migration",
+    "type": "non-trigger",
+    "prompt": "Summarize this pasted note.",
+    "expected": "No vault migration is needed."
+  },
+  {
+    "skill": "electron-ai-integration",
+    "type": "activation",
+    "prompt": "Add streaming AI summaries to this Electron notes app.",
+    "expected": "Use narrow IPC, an explicit credential boundary, and request-scoped cancellation."
+  },
+  {
+    "skill": "electron-ai-integration",
+    "type": "boundary",
+    "prompt": "Just hide our shared API secret in a VITE variable.",
+    "expected": "Explain bundle visibility and use a server-owned credential boundary."
+  },
+  {
+    "skill": "electron-ai-integration",
+    "type": "non-trigger",
+    "prompt": "Explain the meaning of this note.",
+    "expected": "No Electron implementation review is needed."
+  }
+]
